@@ -1,5 +1,15 @@
 .App {
-  text-align: center;
+
+text-align: center;
+
+}
+.timeStyle{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+
 }
 
 .App-logo {
